@@ -1,6 +1,5 @@
 def looping
   loop do
-end
   counter += 1
   puts "Wingardium Leviosa"
   if condition
