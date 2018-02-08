@@ -7,6 +7,7 @@ end
     counter >= 10
   end
 end
+end
 
 #call your method here
 looping
