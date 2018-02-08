@@ -2,7 +2,7 @@ def looping do
   counter += 1
   puts "Wingardium Leviosa"
   if condition
-  ounter >= 10
+    counter >= 10
   end
 end
 
